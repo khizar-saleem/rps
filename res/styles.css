@@ -1,0 +1,10 @@
+GridPane {
+  -fx-padding: 10px;
+  -fx-hgap: 5px;
+  -fx-vgap: 5px;
+}
+
+Button, ToggleButton {
+  -fx-font-weight: bold;
+  -fx-pref-width: 100px;
+}
